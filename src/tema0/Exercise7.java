@@ -3,6 +3,7 @@ package tema0;
 import java.util.Scanner;
 
 public class Exercise7 {
+    // Comentario de ejemplo
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Escribe la cara del dado: ");
